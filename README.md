@@ -1,2 +1,7 @@
-## About
-A repository for learning, developing, documenting, and showcasing projects in Data Analytics and Data Engineering.
+# data-studies
+
+My studies and projects on the path to data engineering.
+
+- `projects/`: applied projects (`mini-projeto-estoque`, `sales-analysis`)
+- `SQL/`: SQL Server exercises and notes
+- `Python/`: Python studies
