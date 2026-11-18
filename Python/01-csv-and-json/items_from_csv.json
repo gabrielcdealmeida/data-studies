@@ -1,0 +1,50 @@
+[
+    {
+        "order_id": 1001,
+        "customer_name": "Gabriel",
+        "product_id": 2001,
+        "quantity": 1,
+        "unit_price": 10.5,
+        "order_date": "2026-11-18"
+    },
+    {
+        "order_id": 1002,
+        "customer_name": "Mariana",
+        "product_id": 2002,
+        "quantity": 3,
+        "unit_price": 25.9,
+        "order_date": "2026-11-18"
+    },
+    {
+        "order_id": 1003,
+        "customer_name": "Carlos",
+        "product_id": 2003,
+        "quantity": 2,
+        "unit_price": 7.25,
+        "order_date": "2026-11-19"
+    },
+    {
+        "order_id": 1004,
+        "customer_name": "Mariana",
+        "product_id": 2001,
+        "quantity": 5,
+        "unit_price": 10.5,
+        "order_date": "2026-11-19"
+    },
+    {
+        "order_id": 1005,
+        "customer_name": "Beatriz",
+        "product_id": 2004,
+        "quantity": 1,
+        "unit_price": 120.0,
+        "order_date": "2026-11-20"
+    },
+    {
+        "order_id": 1006,
+        "customer_name": "Carlos",
+        "product_id": 2002,
+        "quantity": 2,
+        "unit_price": 25.9,
+        "order_date": "2026-11-21"
+    }
+]

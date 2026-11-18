@@ -1,0 +1,7 @@
+order_id,customer_name,product_id,quantity,unit_price,order_date
+1001,Gabriel,2001,1,10.50,2026-11-18
+1002,Mariana,2002,3,25.90,2026-11-18
+1003,Carlos,2003,2,7.25,2026-11-19
+1004,Mariana,2001,5,10.50,2026-11-19
+1005,Beatriz,2004,1,120.00,2026-11-20
+1006,Carlos,2002,2,25.90,2026-11-21
