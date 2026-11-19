@@ -64,3 +64,5 @@ year,make,model
 - Next, I created a script (`csv_to_json.py`) to practice converting CSV data into JSON format. To accomplish this, I initialized an empty list to store the CSV records as dictionaries, resulting in a list of dictionaries.
 - Since all data read from the CSV file is initially treated as strings, I had to convert some values to integers and floats before adding them to the list.
 - Finally, using `json.dump()`, I was able to export the list into a new file called `items_from_csv.json`, properly formatted as JSON.
+- To practice the reverse conversion, I created a script (json_to_csv.py). First, I initialized an empty list to store the JSON field names extracted from the file.
+- Next, using csv.DictWriter() along with the fieldnames list, I was able to create a new file called items_from_json.csv and write the data to it, properly formatted as CSV.
