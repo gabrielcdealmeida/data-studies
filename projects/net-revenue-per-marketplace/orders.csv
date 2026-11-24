@@ -1,0 +1,13 @@
+order_id,order_date,customer,marketplace,product,quantity,unit_price,status
+1001,2026-11-03,Ana Souza,Mercado Livre,Pliers,2,"R$ 35,90",delivered
+1002,04/11/2026,  carlos lima ,mercado livre,Ring Saw,1,"R$ 1.299,90",Delivered
+1003,05-Nov-2026,Julia Reis,Shopee,Pliers,3,35.90,DELIVERED
+1004,2026-11-05,Marcos Alves,SHOPEE ,Torch,1,"R$ 289,00",canceled
+1005,06/11/2026,Ana Souza,Mercado Livre,Polishing Kit,two,"R$ 89,90",delivered
+1005,06/11/2026,Ana Souza,Mercado Livre,Polishing Kit,2,"R$ 89,90",delivered
+1006,2026-11-07,,Shopee,Pliers,1,"R$ 35,90",cancelled
+1007,07/11/2026,Paulo Dias,Marketup,Torch,2,"R$ 289,00",delivered
+1008,2026-11-08,Lia Mota,mercado livre,Ring Saw,,"R$ 1.299,90",delivered
+1009,09/11/2026,Rafa Nunes,Shopee,Polishing Kit,4,"89,90",Delivered
+1010,2026-11-10,Bia Costa,Mercado Livre,Pliers,1,N/A,delivered
+1011,10-Nov-2026,Davi Luz,Shopee,Torch,1,"R$ 289,00",delivered

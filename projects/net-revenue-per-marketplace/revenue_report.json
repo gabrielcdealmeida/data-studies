@@ -1,0 +1,14 @@
+{
+    "Marketup": {
+        "orders": 1,
+        "revenue": 578.0
+    },
+    "Mercado Livre": {
+        "orders": 3,
+        "revenue": 1551.5
+    },
+    "Shopee": {
+        "orders": 3,
+        "revenue": 756.3
+    }
+}

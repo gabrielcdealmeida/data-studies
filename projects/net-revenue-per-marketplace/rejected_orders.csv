@@ -1,0 +1,4 @@
+order_id,order_date,customer,marketplace,product,quantity,unit_price,status,reason
+1005,2026-11-06,Ana Souza,Mercado Livre,Polishing Kit,two,89.9,Delivered,Incorrect quantity format
+1008,2026-11-08,Lia Mota,Mercado Livre,Ring Saw,,1299.9,Delivered,Incorrect quantity format
+1010,2026-11-10,Bia Costa,Mercado Livre,Pliers,1,N/A,Delivered,Incorrect unit price format
