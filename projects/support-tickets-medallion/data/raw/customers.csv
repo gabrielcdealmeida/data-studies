@@ -1,0 +1,87 @@
+﻿customer_id,name,city,email
+1,diego silva ,Campinas,diego.silva1@example.com
+2,Igor Souza,São Bernardo do Campo,igor.souza2@example.com
+3,  ELISA SANTOS  ,Guarulhos,elisa.santos3@example.com
+4,Thiago Santos,Maua,thiago.santos4@example.com
+5,  OLIVIA SILVA  ,São Paulo,olivia.silva5@example.com
+6,Carla Souza,São Bernardo do Campo,carla.souza6@example.com
+7,Sofia Gomes,São Paulo,sofia.gomes7@example.com
+8,Thiago Souza,Campinas,thiago.souza8@example.com
+9,Thiago Almeida, sao paulo ,thiago.almeida9@example.com
+10,Paulo Gomes,S.Bernardo do Campo,paulo.gomes10@example.com
+11,Ana Oliveira,Campinas,ana.oliveira11@example.com
+12,  OLIVIA PEREIRA  ,S.Bernardo do Campo,olivia.pereira12@example.com
+13,Elisa Souza,Osasco,elisa.souza13@example.com
+14,Lucas Santos,Sao Paulo,lucas.santos14@example.com
+15,Nicolas Santos,Sao  Paulo,nicolas.santos15@example.com
+16,mariana gomes ,Sao  Paulo,sem-arroba.example.com
+17,Bruno Lima,Mauá,bruno.lima17@example.com
+18,Diego Almeida,SÃO PAULO,
+19,Thiago Costa,Santos,thiago.costa19@example.com
+20,Beatriz Pereira,Maua,beatriz.pereira20@example.com
+21,Gustavo Santos,São Paulo,gustavo.santos21@example.com
+22,Helena Costa,Sao Paulo,helena.costa22@example.com
+23,Helena Santos,Santo Andre,helena.santos23@example.com
+24,Igor Lima,Guarulhos,igor.lima24@example.com
+25,Mariana Oliveira,S. Bernardo do Campo,mariana.oliveira25@example.com
+26,Mariana Souza,SÃO PAULO,mariana.souza26@example.com
+27,  IGOR SANTOS  ,SÃO PAULO,igor.santos27@example.com
+28,felipe ferreira ,Campinas,felipe.ferreira28@example.com
+29,Helena Oliveira,Diadema,cliente@@example.com
+30,Nicolas Costa,SÃO PAULO,nicolas.costa30@example.com
+31,Thiago Souza,Guarulhos,thiago.souza31@example.com
+32,Lucas Silva,São Bernardo do Campo,lucas.silva32@example.com
+33,Bruno Pereira,Santo Andre,bruno.pereira33@example.com
+34,Igor Santos,São Bernardo do Campo,sem-arroba.example.com
+35,Vitor Pereira,Sao  Paulo,vitor.pereira35@example.com
+36,Rafaela Almeida,Guarulhos,rafaela.almeida36@example.com
+37,Paulo Oliveira,S.Bernardo do Campo,
+38,Elisa Souza,Campinas,elisa.souza38@example.com
+39,  THIAGO FERREIRA  ,S.Bernardo do Campo,thiago.ferreira39@example.com
+40,  VITOR ALMEIDA  ,Maua,vitor.almeida40@example.com
+41,  NICOLAS PEREIRA  ,São Bernardo do Campo,nicolas.pereira41@example.com
+42,Elisa Ferreira,Diadema,elisa.ferreira42@example.com
+43,Carla Silva,Santos,carla.silva43@example.com
+44,Diego Oliveira,SÃO PAULO,diego.oliveira44@example.com
+45,felipe almeida ,Maua,felipe.almeida45@example.com
+46,Carla Almeida,Santo Andre,carla.almeida46@example.com
+47,Beatriz Lima,Mauá,beatriz.lima47@example.com
+48,Igor Ferreira,Santos,igor.ferreira48@example.com
+49,Ana Santos,Guarulhos,ana.santos49@example.com
+50,Thiago Costa,Osasco,email-invalido
+51,Lucas Santos,S.Bernardo do Campo,cliente@@example.com
+52,Olivia Oliveira,Diadema,olivia.oliveira52@example.com
+53,Ana Costa,Mauá,cliente@@example.com
+54,felipe ferreira ,Sao Paulo,felipe.ferreira54@example.com
+55,Julia Ferreira,Maua,julia.ferreira55@example.com
+56,Gustavo Oliveira,Santo André,gustavo.oliveira56@example.com
+57,Felipe Ferreira,Osasco,felipe.ferreira57@example.com
+58,sofia silva ,Maua,sofia.silva58@example.com
+59,Lucas Lima,São Paulo,lucas.lima59@example.com
+60,diego pereira ,Santos,diego.pereira60@example.com
+61,Julia Souza,São Paulo,julia.souza61@example.com
+62,Helena Gomes,Sao Paulo,helena.gomes62@example.com
+63,Carla Lima,S. Bernardo do Campo,carla.lima63@example.com
+64,Carla Ferreira,Osasco,carla.ferreira64@example.com
+65,Elisa Oliveira,Guarulhos,elisa.oliveira65@example.com
+66,Rafaela Ferreira,SAO PAULO,rafaela.ferreira66@example.com
+67,Igor Ferreira,Santos,igor.ferreira67@example.com
+68,Beatriz Almeida,São Bernardo do Campo,beatriz.almeida68@example.com
+69,Thiago Souza,Campinas,thiago.souza69@example.com
+70,Julia Almeida,Guarulhos,julia.almeida70@example.com
+71,mariana lima ,Mauá,mariana.lima71@example.com
+72,Paulo Santos, sao paulo ,paulo.santos72@example.com
+73,Helena Santos,Santo André,sem-arroba.example.com
+74,Ana Gomes,Mauá,ana.gomes74@example.com
+75,Helena Gomes,São Bernardo do Campo,helena.gomes75@example.com
+76,Ana Santos,Campinas,ana.santos76@example.com
+77,Bruno Souza,Sao Paulo,bruno.souza77@example.com
+78,Bruno Pereira,Sao Paulo,bruno.pereira78@example.com
+79,Sofia Souza,S.Bernardo do Campo,sofia.souza79@example.com
+80,  RAFAELA SOUZA  ,Mauá,rafaela.souza80@example.com
+81, Sofia Gomes ,Santo André,sofia.gomes781@example.com
+82, Thiago Costa ,Osasco,thiago.costa1982@example.com
+83, Thiago Souza ,Diadema,thiago.souza3183@example.com
+84, Carla Almeida ,Maua,carla.almeida4684@example.com
+85, Helena Gomes ,Santos,helena.gomes6285@example.com
+86, Ana Gomes ,Campinas,ana.gomes7486@example.com
